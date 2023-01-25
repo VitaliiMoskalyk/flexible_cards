@@ -1,5 +1,5 @@
 <h1>Example of 5 flexible cards.</h1>
-<h3> Cards is change their width by mouse hover !</h3>
+<h3> Cards are change their width by mouse hover !</h3>
 </br>
 </hr>
 
